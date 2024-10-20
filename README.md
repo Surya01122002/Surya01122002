@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for a **Job and Internship.**
 
-- 👨‍💻 All of my projects are available at [http://portfolio.suryap.me/](http://portfolio.suryap.me/)
+- 👨‍💻 All of my projects are available at ([http://portfolio.suryap.me/](https://github.com/Surya01122002))
 
 - 📫 How to reach me **surya20021201@gmail.com**
 
